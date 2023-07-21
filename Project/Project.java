@@ -175,8 +175,6 @@ public class Project {
         }
 
         System.out.println("LRU: " + page_fa_lru + ", FIFO: " + page_fa_fifo + ", Second-chance: " + page_fa_secCha);
-
         System.out.println("END!");
-
     }
 }
